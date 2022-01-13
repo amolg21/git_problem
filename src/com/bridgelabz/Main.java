@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Amol Ghotale");
         System.out.println("I hate Java");
         System.out.println("shubangi is scholar ");
+        System.out.println("good morning");
     }
 }
